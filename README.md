@@ -23,6 +23,8 @@ LAB 2.1 Clasificar Mediante Código De Colores Las Características De Los Conec
  PDF paso a paso del laboratotio
  
  [Lab.1. Clasificar Mediante Código De Colores Las Características De Los Conectores De La Fuente De Poder.ChicaizaIvan.pdf](https://github.com/IvanChicaiza16/Mantenimiento-de-la-fuente-de-poder/files/11843572/Lab.1.Clasificar.Mediante.Codigo.De.Colores.Las.Caracteristicas.De.Los.Conectores.De.La.Fuente.De.Poder.ChicaizaIvan.pdf)
+
+ 
 Link del Video
 
 
