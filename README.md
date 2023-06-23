@@ -1,4 +1,4 @@
-# Mantenimiento-de-la-fuente-de-poder
+# Mantenimiento-y-elementos-del-pc
 CHICAIZA IVAN
 
 MANTENIMINETO DE LA FUENTE DE PODER
